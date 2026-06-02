@@ -14,6 +14,14 @@ This project was developed as part of frontend development practice to strengthe
 
 ---
 
+## Live Demo
+
+Add your GitHub Pages link here:
+
+https://rafiantoas.github.io/qr-code-component-ui/
+
+---
+
 ## Features
 
 - Modern card-based layout

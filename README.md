@@ -18,7 +18,7 @@ This project was developed as part of frontend development practice to strengthe
 
 Add your GitHub Pages link here:
 
-https://rafiantoas.github.io/qr-code-component-ui/
+https://rafiantoas.github.io/blog-preview-card-ui/
 
 ---
 
